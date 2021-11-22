@@ -1,5 +1,5 @@
 ---
-label: Main Menu
+label: Menu - Header
 hide_body: false
 fields:
 - name: main_menu
