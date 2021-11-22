@@ -1,0 +1,19 @@
+[
+    {
+      "url": "/",
+      "title": "Home"
+    },
+    {
+      "url": "/about-the-demo",
+      "title": "What is this?"
+    },
+    {
+      "url": "/about-the-ssg",
+      "title": "About Gatsby"
+    },
+    {
+      "url": "/posts",
+      "title": "Blog"
+    }
+  ]
+  
