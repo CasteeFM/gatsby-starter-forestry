@@ -1,6 +1,21 @@
 {
   "menu_items": [
     {
+      "menu_title": "with sub",
+      "menu_url": "",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
+        {
+          "submenu_title": "sub item",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        }
+      ]
+    },
+    {
       "menu_title": "test",
       "menu_url": "test",
       "menu_icon": "",
