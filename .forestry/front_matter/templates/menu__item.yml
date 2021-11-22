@@ -63,11 +63,6 @@ fields:
     max: 
     labelField: 
   label: Menu items
-- name: test
-  type: include
-  config: {}
-  template: menu__item
-  label: test
 pages:
 - src/data/menu_footer.json
 - src/data/menu_header.json
