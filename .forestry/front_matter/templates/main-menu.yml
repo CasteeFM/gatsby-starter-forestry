@@ -2,8 +2,8 @@
 label: Menu - Header
 hide_body: false
 fields:
-- name: main_menu
-  label: Main menu
+- name: menu_header
+  label: Menu - Header
   type: field_group_list
   fields:
   - name: menu_title
