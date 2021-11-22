@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: document
-  path: src/data/menu_header.json
-  label: Menu - Header
 - type: heading
   label: Content
 - type: directory
@@ -27,6 +24,14 @@ sections:
   templates:
   - post
 - type: heading
+  label: Navigation
+- type: document
+  path: src/data/menu_header.json
+  label: Menu - Header
+- type: document
+  path: src/data/menu_footer.json
+  label: Menu - Footer
+- type: heading
   label: Config
 - type: document
   path: test-config.json
@@ -34,9 +39,6 @@ sections:
 - type: document
   path: site-config.json
   label: Site Config
-- type: document
-  path: src/data/menu_footer.json
-  label: Menu - Footer
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
