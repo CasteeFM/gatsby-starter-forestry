@@ -2,20 +2,28 @@
 label: menu__item
 hide_body: true
 fields:
-- name: menu_title
-  type: text
+- name: menu_items
+  type: field_group_list
+  fields:
+  - name: menu_title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: menu_url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: menu_icon
+    type: file
+    config:
+      maxSize: 64
+    label: Icon
   config:
-    required: false
-  label: Title
-- name: menu_url
-  type: text
-  config:
-    required: false
-  label: URL
-- name: menu_icon
-  type: file
-  config:
-    maxSize: 64
-  label: Icon
+    min: 
+    max: 
+    labelField: 
+  label: Menu items
 pages:
 - src/data/menu_header.json
