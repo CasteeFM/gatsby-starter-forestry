@@ -30,5 +30,3 @@ fields:
   default: ''
   config:
     labelField: title
-pages:
-- src/data/menu_header.json
