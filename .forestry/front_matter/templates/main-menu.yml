@@ -6,26 +6,26 @@ fields:
   label: Main menu
   type: field_group_list
   fields:
-  - name: title
+  - name: menu_title
     label: Title
     type: text
     hidden: false
     default: ''
-  - name: url
+  - name: menu_url
     label: Url
     type: text
     hidden: false
     default: ''
-  - type: select
-    name: type
+  - name: menu_icon
+    type: file
     config:
-      source:
-        type: simple
-      options:
-      - internal
-      - external
-    label: Type
-    default: internal
+      maxSize: 64
+    label: Icon
+  - name: menu_class_name
+    type: text
+    config:
+      required: false
+    label: Class name
   hidden: false
   default: ''
   config:
