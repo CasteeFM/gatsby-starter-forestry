@@ -18,5 +18,10 @@
     "type": "internal",
     "url": "/products",
     "title": "Products"
+  },
+  {
+    "title": "Solutions",
+    "type": "internal",
+    "url": "/solutions"
   }
 ]
