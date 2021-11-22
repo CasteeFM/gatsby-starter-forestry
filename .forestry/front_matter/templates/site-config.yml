@@ -26,3 +26,8 @@ fields:
       format: html-blocks
   hidden: false
   default: ''
+- name: nov_field
+  type: text
+  config:
+    required: false
+  label: nov field
