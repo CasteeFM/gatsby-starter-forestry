@@ -66,3 +66,4 @@ fields:
 pages:
 - src/data/menu_footer.json
 - src/data/menu_header.json
+- test-config.json
