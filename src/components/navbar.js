@@ -1,9 +1,11 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 
-import { graphql, StaticQuery } from 'gatsby'
+import MenuHeader from "../data/menu_header.json"
 
-class MenuHeader extends Component {
+// import { graphql, StaticQuery } from 'gatsby'
+
+class Navbar extends Component {
   state = {
     navbarOpen: false,
   }
@@ -53,45 +55,20 @@ class MenuHeader extends Component {
           }
         >
           <div className="navbar-start">
-            <StaticQuery
-              query={graphql`
-                {
-                  allMenuHeaderJson {
-                    edges {
-                      node {
-                        id
-                        type
-                        url
-                        title
-                      }
-                    }
-                  }
-                }
-              `}
-              render={data =>
-                data.allMenuHeaderJson.edges.map(edge => {
-                  return edge.node.type === 'internal' ? (
-                    <Link
-                      key={edge.node.id}
-                      to={edge.node.url}
-                      className="navbar-item"
-                    >
-                      {edge.node.title}
-                    </Link>
-                  ) : (
-                    <a
-                      key={edge.node.id}
-                      className="navbar-item"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href={edge.node.url}
-                    >
-                      {edge.node.title}
-                    </a>
-                  )
+            {MenuHeader.menu_items.map(data => {
+              let submenuItems;
+
+              if (data.submenu.length > 0) {
+                submenuItems = data.submenu.map(submenuData => {
+                  return <li>{submenuData.submenu_title}</li>
                 })
+
+                return <li>{data.menu_title} <ul>{submenuItems}</ul></li>
               }
-            />
+
+              return <li>{data.menu_title}</li>
+            })}
+         
           </div>
         </div>
       </nav>
@@ -99,4 +76,4 @@ class MenuHeader extends Component {
   }
 }
 
-export default MenuHeader
+export default Navbar

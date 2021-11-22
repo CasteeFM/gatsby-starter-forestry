@@ -1,12 +1,12 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 
-import MenuHeader from './menu-header'
+import Navbar from './navbar'
 
 const Header = ({ siteTitle }) => (
   <header className="site-header">
     <section className="navigation">
-      <MenuHeader siteTitle={siteTitle} />
+      <Navbar siteTitle={siteTitle} />
     </section>
   </header>
 )
