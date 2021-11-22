@@ -26,6 +26,10 @@ sections:
 - type: heading
   label: Config
 - type: document
+  path: test-config.json
+  label: test config
+  match: "**/*"
+- type: document
   path: site-config.json
   label: Site Config
 - type: document
