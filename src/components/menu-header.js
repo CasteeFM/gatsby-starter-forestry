@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import { graphql, StaticQuery } from 'gatsby'
 
-class Navbar extends Component {
+class MenuHeader extends Component {
   state = {
     navbarOpen: false,
   }
@@ -99,4 +99,4 @@ class Navbar extends Component {
   }
 }
 
-export default Navbar
+export default MenuHeader
