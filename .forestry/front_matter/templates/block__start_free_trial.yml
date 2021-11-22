@@ -1,4 +1,23 @@
 ---
 label: block__start_free_trial
 hide_body: true
-fields: []
+fields:
+- name: trial_title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: trial_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: trial_sub_cta
+  type: text
+  config:
+    required: false
+  label: Sub CTA
