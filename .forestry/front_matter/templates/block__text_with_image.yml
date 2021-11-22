@@ -1,4 +1,28 @@
 ---
 label: block__text_with_image
 hide_body: true
-fields: []
+fields:
+- name: twi_pre_title
+  type: text
+  config:
+    required: false
+  label: Pre title
+- name: twi_title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: twi_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: twi_image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
