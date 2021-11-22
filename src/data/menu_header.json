@@ -1,6 +1,21 @@
 {
   "menu_items": [
     {
+      "menu_title": "is this working now",
+      "menu_url": "/yes",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
+        {
+          "submenu_title": "and here is a submenu",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        }
+      ]
+    },
+    {
       "menu_title": "test",
       "menu_url": "test",
       "menu_icon": "",
