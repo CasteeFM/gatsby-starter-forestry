@@ -34,7 +34,6 @@ sections:
 - type: document
   path: src/data/menu_footer.json
   label: Menu - Footer
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

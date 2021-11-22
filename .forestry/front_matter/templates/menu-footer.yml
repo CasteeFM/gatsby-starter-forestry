@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group_list
   name: Menu header
-  label: Menu header
+  label: Menu footer
   fields:
   - type: text
     name: type
