@@ -5,6 +5,14 @@
   "pathPrefix": "",
   "nov_field": "tektst",
   "menu_items": [
+    {
+      "menu_title": "test",
+      "menu_url": "",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
 
+      ]
+    }
   ]
 }
