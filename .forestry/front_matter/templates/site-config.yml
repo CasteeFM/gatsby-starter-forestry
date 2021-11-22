@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: nov field
+pages:
+- site-config.json
