@@ -1,6 +1,15 @@
 {
   "menu_items": [
     {
+      "menu_title": "test",
+      "menu_url": "test",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
+
+      ]
+    },
+    {
       "menu_title": "with sub",
       "menu_url": "",
       "menu_icon": "",
@@ -13,15 +22,6 @@
           "submenu_icon": "",
           "submenu_class_name": ""
         }
-      ]
-    },
-    {
-      "menu_title": "test",
-      "menu_url": "test",
-      "menu_icon": "",
-      "menu_class_name": "",
-      "submenu": [
-
       ]
     }
   ]
