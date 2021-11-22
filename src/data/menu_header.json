@@ -1,19 +1,19 @@
 [
     {
-      "url": "/",
-      "title": "Home"
+      "menu_url": "/",
+      "menu_title": "Home"
     },
     {
-      "url": "/about-the-demo",
-      "title": "What is this?"
+      "menu_url": "/about-the-demo",
+      "menu_title": "What is this?"
     },
     {
-      "url": "/about-the-ssg",
-      "title": "About Gatsby"
+      "menu_url": "/about-the-ssg",
+      "menu_title": "About Gatsby"
     },
     {
-      "url": "/posts",
-      "title": "Blog"
+      "menu_url": "/posts",
+      "menu_title": "Blog"
     }
   ]
   
