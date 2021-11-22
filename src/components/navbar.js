@@ -56,7 +56,7 @@ class Navbar extends Component {
             <StaticQuery
               query={graphql`
                 {
-                  allMainMenuJson {
+                  allMenuHeaderJson {
                     edges {
                       node {
                         id
@@ -69,7 +69,7 @@ class Navbar extends Component {
                 }
               `}
               render={data =>
-                data.allMainMenuJson.edges.map(edge => {
+                data.allMenuHeaderJson.edges.map(edge => {
                   return edge.node.type === 'internal' ? (
                     <Link
                       key={edge.node.id}
