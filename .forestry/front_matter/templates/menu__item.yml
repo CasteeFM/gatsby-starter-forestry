@@ -20,6 +20,29 @@ fields:
     config:
       maxSize: 64
     label: Icon
+  - name: submenu
+    type: field_group_list
+    fields:
+    - name: submenu_title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: submenu_url
+      type: text
+      config:
+        required: false
+      label: Url
+    - name: submenu_icon
+      type: file
+      config:
+        maxSize: 64
+      label: Icon
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Submenu
   config:
     min: 
     max: 
