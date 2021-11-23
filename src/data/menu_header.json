@@ -111,7 +111,7 @@
       "menu_title": "Get Started",
       "menu_url": "https://panel.bunny.net/user/register",
       "menu_icon": "",
-      "menu_class_name": "",
+      "menu_class_name": "cta-navbar-primary",
       "submenu": [
 
       ]
