@@ -1,15 +1,6 @@
 {
   "menu_items": [
     {
-      "menu_title": "Login",
-      "menu_url": "https://panel.bunny.net/user/login",
-      "menu_icon": "",
-      "menu_class_name": "login",
-      "submenu": [
-
-      ]
-    },
-    {
       "menu_title": "Network",
       "menu_url": "/network",
       "menu_icon": "",
@@ -105,6 +96,24 @@
           "submenu_icon": "",
           "submenu_class_name": ""
         }
+      ]
+    },
+    {
+      "menu_title": "Login",
+      "menu_url": "https://panel.bunny.net/user/login",
+      "menu_icon": "",
+      "menu_class_name": "login",
+      "submenu": [
+
+      ]
+    },
+    {
+      "menu_title": "Get Started",
+      "menu_url": "https://panel.bunny.net/user/register",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
+
       ]
     }
   ],
