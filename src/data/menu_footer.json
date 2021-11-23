@@ -175,8 +175,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "Australia CDN",
+            "menu_url": "/network/australia",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
