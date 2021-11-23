@@ -15,6 +15,42 @@
             "submenu": [
 
             ]
+          },
+          {
+            "menu_title": "Network",
+            "menu_url": "/network",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
           }
         ],
         "menu_group_title": "bunny.net"
