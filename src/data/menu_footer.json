@@ -225,8 +225,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "Contact",
+            "menu_url": "/contact",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
@@ -234,8 +234,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "Blog",
+            "menu_url": "/blog",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
