@@ -389,9 +389,35 @@
       },
       {
         "menu_items": [
+          {
+            "menu_title": " sales@bunny.net",
+            "menu_url": "mailto:sales@bunny.net",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
 
+            ]
+          },
+          {
+            "menu_title": " +1-661-240-9770",
+            "menu_url": "tel:+1-661-240-9770",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": " Talk to an expert",
+            "menu_url": "/contact-sales",
+            "menu_icon": "",
+            "menu_class_name": "talk-to-an-expert",
+            "submenu": [
+
+            ]
+          }
         ],
-        "menu_group_title": ""
+        "menu_group_title": "Big traffic? Talk to Sales"
       }
     ]
   },
