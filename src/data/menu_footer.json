@@ -136,7 +136,20 @@
   },
   "column_3": {
     "menu_group": [
+      {
+        "menu_items": [
+          {
+            "menu_title": "Website Acceleration",
+            "menu_url": "/solutions/website-acceleration",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
 
+            ]
+          }
+        ],
+        "menu_group_title": "Solutions"
+      }
     ]
   },
   "column_4": {
