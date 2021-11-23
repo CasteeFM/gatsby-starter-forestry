@@ -81,10 +81,10 @@
           "submenu_class_name": ""
         },
         {
-          "submenu_title": "",
-          "submenu_url": "",
-          "submenu_description": "",
-          "submenu_icon_class": "",
+          "submenu_title": "Software Distribution",
+          "submenu_url": "/solutions/software-distribution",
+          "submenu_description": "Distribute your software with our fast global network.",
+          "submenu_icon_class": "fad fa-fw fa-file-export",
           "submenu_icon": "",
           "submenu_class_name": ""
         },
