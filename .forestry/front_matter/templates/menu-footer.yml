@@ -92,5 +92,20 @@ fields:
       labelField: 
     label: Menu group
   label: Column 5
+- name: bottom
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: menu_items
+    type: include
+    config: {}
+    template: menu__item
+    label: Menu items
+  label: Bottom
 pages:
 - src/data/menu_footer.json
