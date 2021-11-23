@@ -23,16 +23,72 @@ fields:
 - name: column_2
   type: field_group
   config: {}
+  fields:
+  - name: menu_group
+    type: field_group_list
+    fields:
+    - name: menu_items
+      type: include
+      config: {}
+      template: menu__item
+      label: Menu items
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Menu group
   label: Column 2
 - name: column_3
   type: field_group
   config: {}
+  fields:
+  - name: menu_group
+    type: field_group_list
+    fields:
+    - name: menu_items
+      type: include
+      config: {}
+      template: menu__item
+      label: Menu items
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Menu group
   label: Column 3
 - name: column_4
   type: field_group
   config: {}
+  fields:
+  - name: menu_group
+    type: field_group_list
+    fields:
+    - name: menu_items
+      type: include
+      config: {}
+      template: menu__item
+      label: Menu items
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Menu group
   label: Column 4
 - name: column_5
   type: field_group
   config: {}
+  fields:
+  - name: menu_group
+    type: field_group_list
+    fields:
+    - name: menu_items
+      type: include
+      config: {}
+      template: menu__item
+      label: Menu items
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Menu group
   label: Column 5
