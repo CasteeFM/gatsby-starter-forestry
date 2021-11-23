@@ -41,10 +41,10 @@
           "submenu_class_name": ""
         },
         {
-          "submenu_title": "",
-          "submenu_url": "",
-          "submenu_description": "",
-          "submenu_icon_class": "",
+          "submenu_title": "Stream",
+          "submenu_url": "/stream",
+          "submenu_description": "A better way to deliver online video.",
+          "submenu_icon_class": "fad fa-fw fa-play",
           "submenu_icon": "",
           "submenu_class_name": ""
         },
