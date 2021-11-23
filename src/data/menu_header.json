@@ -102,7 +102,7 @@
       "menu_title": "Login",
       "menu_url": "https://panel.bunny.net/user/login",
       "menu_icon": "",
-      "menu_class_name": "login",
+      "menu_class_name": "cta-navbar-secondary",
       "submenu": [
 
       ]
