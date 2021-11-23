@@ -19,15 +19,15 @@
       ]
     },
     {
-      "menu_title": "with sub",
-      "menu_url": "",
+      "menu_title": "Products",
+      "menu_url": "#",
       "menu_icon": "",
       "menu_class_name": "",
       "submenu": [
         {
-          "submenu_title": "sub item",
-          "submenu_url": "",
-          "submenu_description": "",
+          "submenu_title": "CDN",
+          "submenu_url": "/cdn",
+          "submenu_description": "Lightning-fast global CDN to supercharge your content.",
           "submenu_icon": "",
           "submenu_class_name": ""
         }
