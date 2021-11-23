@@ -59,7 +59,20 @@
   },
   "column_2": {
     "menu_group": [
+      {
+        "menu_items": [
+          {
+            "menu_title": "CDN",
+            "menu_url": "/cdn",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
 
+            ]
+          }
+        ],
+        "menu_group_title": "Products"
+      }
     ]
   },
   "column_3": {
