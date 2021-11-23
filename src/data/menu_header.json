@@ -89,10 +89,10 @@
           "submenu_class_name": ""
         },
         {
-          "submenu_title": "",
-          "submenu_url": "",
-          "submenu_description": "",
-          "submenu_icon_class": "",
+          "submenu_title": "Dynamic Image Processing",
+          "submenu_url": "/optimizer/transform-api",
+          "submenu_description": "Transform and optimize images on the fly.",
+          "submenu_icon_class": "fad fa-fw fa-crop-alt",
           "submenu_icon": "",
           "submenu_class_name": ""
         }
