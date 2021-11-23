@@ -7,6 +7,12 @@
     "menu_group": [
       {
         "menu_items": [
+
+        ],
+        "menu_group_title": ""
+      },
+      {
+        "menu_items": [
           {
             "menu_title": "Pricing",
             "menu_url": "/pricing",
@@ -17,7 +23,7 @@
             ]
           }
         ],
-        "menu_group_title": ""
+        "menu_group_title": "bunny.net"
       }
     ]
   },
