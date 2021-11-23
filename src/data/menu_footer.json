@@ -262,6 +262,94 @@
           }
         ],
         "menu_group_title": "Company"
+      },
+      {
+        "menu_items": [
+          {
+            "menu_title": "Network Tools",
+            "menu_url": "https://tools.bunny.net",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "GDPR",
+            "menu_url": "/gdpr",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "FAQ",
+            "menu_url": "/help/faq",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "Compare Services ",
+            "menu_url": "#",
+            "menu_icon": "",
+            "menu_class_name": "compare-services-list",
+            "submenu": [
+              {
+                "submenu_title": "Fastly",
+                "submenu_url": "/vs/fastly",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              },
+              {
+                "submenu_title": "StackPath",
+                "submenu_url": "/vs/stackpath",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              },
+              {
+                "submenu_title": "CloudFlare",
+                "submenu_url": "/vs/cloudflare",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              },
+              {
+                "submenu_title": "CloudFront",
+                "submenu_url": "/vs/cloudfront",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              },
+              {
+                "submenu_title": "CacheFly",
+                "submenu_url": "/vs/cachefly",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              },
+              {
+                "submenu_title": "CDN77",
+                "submenu_url": "/vs/cdn77",
+                "submenu_description": "",
+                "submenu_icon_class": "",
+                "submenu_icon": "",
+                "submenu_class_name": ""
+              }
+            ]
+          }
+        ],
+        "menu_group_title": "Resources"
       }
     ]
   },
