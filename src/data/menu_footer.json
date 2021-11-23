@@ -8,20 +8,6 @@
       {
         "menu_items": [
           {
-            "menu_title": "CDN",
-            "menu_url": "/cdn",
-            "menu_icon": "",
-            "menu_class_name": "",
-            "submenu": [
-
-            ]
-          }
-        ],
-        "menu_group_title": "Products"
-      },
-      {
-        "menu_items": [
-          {
             "menu_title": "Pricing",
             "menu_url": "/pricing",
             "menu_icon": "",
@@ -32,6 +18,20 @@
           }
         ],
         "menu_group_title": "bunny.net"
+      },
+      {
+        "menu_items": [
+          {
+            "menu_title": "CDN",
+            "menu_url": "/cdn",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          }
+        ],
+        "menu_group_title": "Products"
       }
     ]
   },
