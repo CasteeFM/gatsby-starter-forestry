@@ -355,7 +355,44 @@
   },
   "column_5": {
     "menu_group": [
+      {
+        "menu_items": [
+          {
+            "menu_title": " support@bunny.net",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "support-mail-link",
+            "submenu": [
 
+            ]
+          },
+          {
+            "menu_title": "Help Center",
+            "menu_url": "https://support.bunnycdn.com/hc/en-us",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "Open Live Chat",
+            "menu_url": "#oc",
+            "menu_icon": "",
+            "menu_class_name": "open-live-chat-link",
+            "submenu": [
+
+            ]
+          }
+        ],
+        "menu_group_title": "Support"
+      },
+      {
+        "menu_items": [
+
+        ],
+        "menu_group_title": ""
+      }
     ]
   },
   "bottom": {
