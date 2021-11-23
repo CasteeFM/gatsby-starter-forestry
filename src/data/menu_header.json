@@ -29,7 +29,8 @@
           "submenu_url": "/cdn",
           "submenu_description": "Lightning-fast global CDN to supercharge your content.",
           "submenu_icon": "",
-          "submenu_class_name": ""
+          "submenu_class_name": "",
+          "submenu_icon_class": "fad fa-fw fa-rocket"
         }
       ]
     }
