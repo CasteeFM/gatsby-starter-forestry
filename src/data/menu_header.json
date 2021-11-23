@@ -1,6 +1,15 @@
 {
   "menu_items": [
     {
+      "menu_title": "Login",
+      "menu_url": "https://panel.bunny.net/user/login",
+      "menu_icon": "",
+      "menu_class_name": "login",
+      "submenu": [
+
+      ]
+    },
+    {
       "menu_title": "Network",
       "menu_url": "/network",
       "menu_icon": "",
