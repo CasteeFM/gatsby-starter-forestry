@@ -48,6 +48,11 @@ fields:
       config:
         required: false
       label: Description
+    - name: submenu_icon_class
+      type: text
+      config:
+        required: false
+      label: Icon class
     - name: submenu_icon
       type: file
       config:
