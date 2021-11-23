@@ -1,13 +1,31 @@
 {
   "menu_items": [
-    {
-      "menu_title": "test",
-      "menu_url": "test",
-      "menu_icon": "",
-      "menu_class_name": "",
-      "submenu": [
 
-      ]
-    }
-  ]
+  ],
+  "menu_group_title": "",
+  "column_1": {
+    "menu_group": [
+
+    ]
+  },
+  "column_2": {
+    "menu_group": [
+
+    ]
+  },
+  "column_3": {
+    "menu_group": [
+
+    ]
+  },
+  "column_4": {
+    "menu_group": [
+
+    ]
+  },
+  "column_5": {
+    "menu_group": [
+
+    ]
+  }
 }

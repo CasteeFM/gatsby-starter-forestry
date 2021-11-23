@@ -69,5 +69,4 @@ fields:
     labelField: 
   label: Menu items
 pages:
-- src/data/menu_footer.json
 - src/data/menu_header.json

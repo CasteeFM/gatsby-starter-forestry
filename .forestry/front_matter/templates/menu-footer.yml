@@ -92,3 +92,5 @@ fields:
       labelField: 
     label: Menu group
   label: Column 5
+pages:
+- src/data/menu_footer.json
