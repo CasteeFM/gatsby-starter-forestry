@@ -31,6 +31,30 @@
           "submenu_icon": "",
           "submenu_class_name": "",
           "submenu_icon_class": "fad fa-fw fa-rocket"
+        },
+        {
+          "submenu_title": "Edge Storage",
+          "submenu_url": "/edge-storage",
+          "submenu_description": "The world's fastest cloud storage replicated to the edge.",
+          "submenu_icon_class": "fad fa-fw fa-th-large",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        },
+        {
+          "submenu_title": "",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon_class": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        },
+        {
+          "submenu_title": "",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon_class": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
         }
       ]
     }
