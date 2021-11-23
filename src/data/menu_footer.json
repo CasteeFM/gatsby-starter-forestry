@@ -5,7 +5,20 @@
   "menu_group_title": "",
   "column_1": {
     "menu_group": [
+      {
+        "menu_items": [
+          {
+            "menu_title": "Pricing",
+            "menu_url": "/pricing",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
 
+            ]
+          }
+        ],
+        "menu_group_title": ""
+      }
     ]
   },
   "column_2": {
