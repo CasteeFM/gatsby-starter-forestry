@@ -358,8 +358,8 @@
       {
         "menu_items": [
           {
-            "menu_title": " support@bunny.net",
-            "menu_url": "",
+            "menu_title": "support@bunny.net",
+            "menu_url": "mailto:support@bunny.net",
             "menu_icon": "",
             "menu_class_name": "support-mail-link",
             "submenu": [
