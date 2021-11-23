@@ -2,6 +2,11 @@
 label: menu__item
 hide_body: true
 fields:
+- name: menu_group_title
+  type: text
+  config:
+    required: false
+  label: Menu title
 - name: menu_items
   type: field_group_list
   fields:
