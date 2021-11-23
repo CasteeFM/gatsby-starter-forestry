@@ -89,8 +89,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "Stream",
+            "menu_url": "/stream",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
