@@ -71,6 +71,30 @@
           "submenu_icon_class": "fad fa-fw fa-rocket-launch",
           "submenu_icon": "",
           "submenu_class_name": ""
+        },
+        {
+          "submenu_title": "Video Delivery",
+          "submenu_url": "/solutions/video-delivery",
+          "submenu_description": "Reliable and affordable video delivery solution.",
+          "submenu_icon_class": "fad fa-fw fa-photo-video",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        },
+        {
+          "submenu_title": "",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon_class": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        },
+        {
+          "submenu_title": "",
+          "submenu_url": "",
+          "submenu_description": "",
+          "submenu_icon_class": "",
+          "submenu_icon": "",
+          "submenu_class_name": ""
         }
       ]
     }
