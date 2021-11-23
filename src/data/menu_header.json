@@ -10,8 +10,8 @@
       ]
     },
     {
-      "menu_title": "test",
-      "menu_url": "test",
+      "menu_title": "Pricing",
+      "menu_url": "/pricing",
       "menu_icon": "",
       "menu_class_name": "",
       "submenu": [
