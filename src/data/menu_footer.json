@@ -69,6 +69,33 @@
             "submenu": [
 
             ]
+          },
+          {
+            "menu_title": "Bunny Optimizer",
+            "menu_url": "Bunny Optimizer",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
           }
         ],
         "menu_group_title": "Products"
