@@ -18,20 +18,6 @@
           }
         ],
         "menu_group_title": "bunny.net"
-      },
-      {
-        "menu_items": [
-          {
-            "menu_title": "CDN",
-            "menu_url": "/cdn",
-            "menu_icon": "",
-            "menu_class_name": "",
-            "submenu": [
-
-            ]
-          }
-        ],
-        "menu_group_title": "Products"
       }
     ]
   },
@@ -52,6 +38,13 @@
   },
   "column_5": {
     "menu_group": [
+
+    ]
+  },
+  "bottom": {
+    "text": "",
+    "menu_group_title": "",
+    "menu_items": [
 
     ]
   }
