@@ -49,10 +49,10 @@
           "submenu_class_name": ""
         },
         {
-          "submenu_title": "",
-          "submenu_url": "",
-          "submenu_description": "",
-          "submenu_icon_class": "",
+          "submenu_title": "Optimizer",
+          "submenu_url": "/optimizer",
+          "submenu_description": "Powerful on the fly optimization and image processing.",
+          "submenu_icon_class": "fad fa-fw fa-sparkles",
           "submenu_icon": "",
           "submenu_class_name": ""
         }
