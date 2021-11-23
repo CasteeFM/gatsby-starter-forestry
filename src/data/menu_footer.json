@@ -44,8 +44,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "Service Status",
+            "menu_url": "https://status.bunnycdn.com/",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
