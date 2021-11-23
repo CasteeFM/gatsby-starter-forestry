@@ -57,6 +57,22 @@
           "submenu_class_name": ""
         }
       ]
+    },
+    {
+      "menu_title": "Solutions",
+      "menu_url": "#",
+      "menu_icon": "",
+      "menu_class_name": "",
+      "submenu": [
+        {
+          "submenu_title": "Website Acceleration",
+          "submenu_url": "/solutions/website-acceleration",
+          "submenu_description": "Supercharge your website with Bunny CDN.",
+          "submenu_icon_class": "fad fa-fw fa-rocket-launch",
+          "submenu_icon": "",
+          "submenu_class_name": ""
+        }
+      ]
     }
   ],
   "menu_group_title": ""
