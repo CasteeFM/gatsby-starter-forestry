@@ -185,6 +185,29 @@
           }
         ],
         "menu_group_title": "Solutions"
+      },
+      {
+        "menu_items": [
+          {
+            "menu_title": "Developer Hub",
+            "menu_url": "https://docs.bunny.net/",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          },
+          {
+            "menu_title": "",
+            "menu_url": "",
+            "menu_icon": "",
+            "menu_class_name": "",
+            "submenu": [
+
+            ]
+          }
+        ],
+        "menu_group_title": "Developers"
       }
     ]
   },
