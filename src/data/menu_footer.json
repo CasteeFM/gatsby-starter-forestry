@@ -422,10 +422,45 @@
     ]
   },
   "bottom": {
-    "text": "",
+    "text": "2021 All Rights Reserved © BunnyWay d.o.o.",
     "menu_group_title": "",
     "menu_items": [
+      {
+        "menu_title": "Terms Of Service",
+        "menu_url": "/tos",
+        "menu_icon": "",
+        "menu_class_name": "",
+        "submenu": [
 
+        ]
+      },
+      {
+        "menu_title": "Acceptable Use",
+        "menu_url": "/acceptable-use",
+        "menu_icon": "",
+        "menu_class_name": "",
+        "submenu": [
+
+        ]
+      },
+      {
+        "menu_title": "Privacy & Data Policy",
+        "menu_url": "/privacy",
+        "menu_icon": "",
+        "menu_class_name": "",
+        "submenu": [
+
+        ]
+      },
+      {
+        "menu_title": "Report Abuse",
+        "menu_url": "/abuse",
+        "menu_icon": "",
+        "menu_class_name": "",
+        "submenu": [
+
+        ]
+      }
     ]
   }
 }
