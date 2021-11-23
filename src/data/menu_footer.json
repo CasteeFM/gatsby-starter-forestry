@@ -198,8 +198,8 @@
             ]
           },
           {
-            "menu_title": "",
-            "menu_url": "",
+            "menu_title": "API Reference",
+            "menu_url": "https://docs.bunny.net/reference/bunnynet-api-overview",
             "menu_icon": "",
             "menu_class_name": "",
             "submenu": [
